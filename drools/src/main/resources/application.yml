@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: drools
+
+server:
+  port: 8003   #指定服务端口
+#  context-path: /drools
+#注册中心地址
+#eureka:
+# client:
+#  serviceUrl:
+#   defaultZone:http://localhost:8761
