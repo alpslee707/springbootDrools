@@ -1,15 +1,19 @@
 # springbootDrools
-drools.rar 项目文件，解压导入到eclipse使用
+https://github.com/alpslee707/springbootDrools 项目文件
 
+需要工具：
 1.jdk1.7+
 
 2.maven
 
 3.drools包
 
+4.eclipse
+
+需要时间：
 项目搭建时间10分钟+
 
-使用技术spring boot + drools
+使用技术spring boot + drools（7.0.0.final）
 
 需要下载eclipse插件：
 1.drools-distribution-7.0.0.Final.zip 
@@ -37,5 +41,8 @@ eclipse\plugins 下面
 ok插件安装完毕。
 
 7把项目导入到eclipse下载jar包。然后java run  DroolsService.java 就可以体验 drools规则引擎了。
+
+
+
 
 
